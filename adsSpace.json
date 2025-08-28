@@ -1,8 +1,8 @@
 {
   "ads": [
     {
-      "image": "https://tringoala.github.io/ads/imagesSpace/ad1.png",
-      "butimage": "https://tringoala.github.io/ads/imagesSpace/ad1Btn.png",
+      "image": "https://tringoala.github.io/imagesSpace/ad1.png",
+      "butimage": "https://tringoala.github.io/imagesSpace/ad1Btn.png",
       "link": "steam://store/3774950"
     }
   ]
