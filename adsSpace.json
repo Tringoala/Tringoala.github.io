@@ -1,1 +1,8 @@
-
+{
+  "ads": [
+    {
+      "image": "https://tringoala.github.io/ads/imagesSpace/ad1.png",
+      "link": "https://store.steampowered.com/app/123456/Game1/"
+    }
+  ]
+}
